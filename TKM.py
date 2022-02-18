@@ -46,7 +46,7 @@ j=m
 llenarmatriz(M,j,b,a,Texto)
 print("Tu llave es")
 print (M)
-codificación(Texto,M)
-print(Texto)
 
+codificación(Texto,M)
+print("Tu Cifrado es:",Texto)
 
